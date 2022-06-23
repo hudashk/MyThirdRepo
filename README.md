@@ -1,0 +1,2 @@
+# MyThirdRepo
+Playing with Git
